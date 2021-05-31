@@ -6,8 +6,8 @@
     "boardgamegeek": {
         "user_name": "scrambled",
         "extra_params": {
-            "own": True,
-	    "want_to_play": True
+            "own": "True",
+	    "want_to_play": "True"
         }
     },
     "algolia": {
