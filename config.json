@@ -14,6 +14,6 @@
         "app_id": "TSQ0ELQSE2",
         "api_key_search_only": "ba90b35856ec7d18aeaf74e7c72e8f14",
         "index_name": "bgg",
-        "hits_per_page": 24
+        "hits_per_page": 200
     }
 }
